@@ -42,7 +42,7 @@ PROJECT DETAILS:
 - Application Type: Desktop GUI Application
 
 APPLICATION PREVIEW:
-![Interactive Dictionary](screenshots/dictionary-search.png)
+![Interactive Dictionary](screenshots/interactive dictionary.png)
 
 CONTRIBUTORS:
 Pawana Gyawali
