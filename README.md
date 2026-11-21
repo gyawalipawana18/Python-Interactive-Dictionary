@@ -41,6 +41,9 @@ PROJECT DETAILS:
 - Programming Language: Python
 - Application Type: Desktop GUI Application
 
+APPLICATION PREVIEW:
+![Interactive Dictionary](screenshots/dictionary-search.png)
+
 CONTRIBUTORS:
 Pawana Gyawali
 Sachin Subedi (Group member)
